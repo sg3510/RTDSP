@@ -59,3 +59,14 @@ Icon
 *.i*86
 *.x86_64
 *.hex
+
+*tempodb_tests
+*tempodb_tests.txt
+lib/*.a
+lib/test/*.a
+objs/*
+a.out
+examples/example-authed.c
+CppUTest/CppUTest_tests
+CppUTest/lib/*.a
+CppUTest/objs

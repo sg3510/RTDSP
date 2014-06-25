@@ -73,6 +73,7 @@ examples/example-authed.c
 CppUTest/CppUTest_tests
 CppUTest/lib/*.a
 CppUTest/objs
+.gconf/
 
 #################
 ## Eclipse
